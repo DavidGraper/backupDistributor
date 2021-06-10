@@ -1,0 +1,6 @@
+/home/dgraper/colossus_share0/Video
+/home/dgraper/colossus_share0/Work-related
+/home/dgraper/colossus_share0/Movies
+/home/dgraper/colossus_share0/Television
+/home/dgraper/colossus_share0/House-related
+/home/dgraper/colossus_share0/Audio
